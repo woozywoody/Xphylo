@@ -1,0 +1,12 @@
+See exmple if it's your first time to use this software.
+
+Vcf is file with at least 4 columns as
+ChrM/chrY	Chromosome ID, will not be used.
+Position	Snp position on this chromosome, needed.
+Reference	Base on reference, will not be used.
+SNP		Base of SNP, needed.
+
+
+Refrence:
+1. ChrY is from ucsc.hg19.fasta
+2. The length of chrM is 16569;

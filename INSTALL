@@ -1,0 +1,4 @@
+Install:
+	make
+Clean:
+	make clean
